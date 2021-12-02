@@ -1,0 +1,28 @@
+* {
+	font-family: 'Roboto Slab', serif;
+}
+
+
+.purple-color {
+	background-color: #0B0C10;
+}
+
+.navbar-text {
+	color: #66FCF1;
+	text-decoration: none;
+}
+
+.white-text {
+	color: #45A29E;
+}
+
+.white-color {
+	background-color: white;
+}
+
+.border {
+	border: 1px solid white;
+}
+
+
+
